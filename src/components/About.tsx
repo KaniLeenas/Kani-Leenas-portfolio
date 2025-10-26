@@ -140,7 +140,7 @@ const About = () => {
                   <div className="relative w-60 h-60 mx-auto">
                     <div className="w-60 h-60 bg-gradient-to-br from-primary to-accent rounded-full flex items-center justify-center text-4xl font-bold text-primary-foreground animate-pulse hover:animate-spin transition-all duration-500">
                       <img 
-                        src="New folder (4)/Screenshot 2025-10-26 213119.png" 
+                        src="WhatsApp Image 2025-10-19 at 21.16.11_212753b8.jpg" 
                         alt="Profile" 
                         className="w-56 h-56 rounded-full object-cover"
                       />
