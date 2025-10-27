@@ -93,7 +93,7 @@ const About = () => {
               <div className="flex flex-wrap gap-4 pt-6">
                 {/* Download CV */}
                 <a
-                  href="public/lovable-uploads/Kani_Leenas_Cv_DevOps_Intern.pdf"
+                  href="/lovable-uploads/Kani_Leenas_Cv_DevOps_Intern.pdf"
                   download
                   className="inline-block"
                 >
@@ -140,7 +140,11 @@ const About = () => {
                   <div className="relative w-60 h-60 mx-auto">
                     <div className="w-60 h-60 bg-gradient-to-br from-primary to-accent rounded-full flex items-center justify-center text-4xl font-bold text-primary-foreground animate-pulse hover:animate-spin transition-all duration-500">
                       <img 
+<<<<<<< HEAD
                         src="WhatsApp Image 2025-10-19 at 21.16.11_212753b8.jpg" 
+=======
+                        src="/lovable-uploads/Screenshot213119.png" 
+>>>>>>> 7bb86f4 (Fix: image paths; update About, Certificate, Portfolio, Skills)
                         alt="Profile" 
                         className="w-56 h-56 rounded-full object-cover"
                       />
@@ -157,13 +161,28 @@ const About = () => {
                   {/* Animated tech stack icons */}
                   <div className="flex justify-center gap-4 pt-4">
                     <div className="w-10 h-10 bg-primary/20 rounded-lg flex items-center justify-center hover:bg-primary/30 transition-colors hover:scale-110 transform cursor-pointer">
-                      <span className="text-primary font-bold text-sm"></span>
+                      <span className="text-primary font-bold text-sm">🧑‍💻</span>
                     </div>
                     <div className="w-10 h-10 bg-accent/20 rounded-lg flex items-center justify-center hover:bg-accent/30 transition-colors hover:scale-110 transform cursor-pointer">
-                      <span className="text-accent font-bold text-sm"></span>
+                      <span className="text-accent font-bold text-sm">📱</span>
                     </div>
                     <div className="w-10 h-10 bg-primary/20 rounded-lg flex items-center justify-center hover:bg-primary/30 transition-colors hover:scale-110 transform cursor-pointer">
-                      <span className="text-primary font-bold text-sm"></span>
+                      <span className="text-primary font-bold text-sm">☁️</span>
+                    </div>
+                    <div className="w-10 h-10 bg-primary/20 rounded-lg flex items-center justify-center hover:bg-primary/30 transition-colors hover:scale-110 transform cursor-pointer">
+                      <span className="text-primary font-bold text-sm">🌐</span>
+                    </div>
+                    <div className="w-10 h-10 bg-primary/20 rounded-lg flex items-center justify-center hover:bg-primary/30 transition-colors hover:scale-110 transform cursor-pointer">
+                      <span className="text-primary font-bold text-sm">🧠</span>
+                    </div>
+                    <div className="w-10 h-10 bg-primary/20 rounded-lg flex items-center justify-center hover:bg-primary/30 transition-colors hover:scale-110 transform cursor-pointer">
+                      <span className="text-primary font-bold text-sm">🎓</span>
+                    </div>
+                    <div className="w-10 h-10 bg-primary/20 rounded-lg flex items-center justify-center hover:bg-primary/30 transition-colors hover:scale-110 transform cursor-pointer">
+                      <span className="text-primary font-bold text-sm">⚙️</span>
+                    </div>
+                    <div className="w-10 h-10 bg-primary/20 rounded-lg flex items-center justify-center hover:bg-primary/30 transition-colors hover:scale-110 transform cursor-pointer">
+                      <span className="text-primary font-bold text-sm">🚀</span>
                     </div>
                   </div>
                 </div>

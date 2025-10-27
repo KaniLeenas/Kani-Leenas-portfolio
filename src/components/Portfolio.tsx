@@ -37,7 +37,7 @@ const Portfolio = () => {
       image: 'https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&h=400&fit=crop',
       tech: ['Flutter', 'Firebase', 'FCM', 'Firestore'],
       category: 'Mobile App',
-      github: 'https://github.com/kanileenas',
+      github: 'https://github.com/alvinistan/MAD',
       demo: '#',
       stars: 32,
       forks: 12
@@ -81,7 +81,7 @@ const Portfolio = () => {
       image: 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&fit=crop',
       tech: ['AWS', 'Terraform', 'VPC', 'Route 53'],
       category: 'DevOps',
-      github: 'https://github.com/kanileenas',
+      github: 'https://github.com/KaniLeenas/Aws-Deploy-Hotstar',
       demo: '#',
       stars: 52,
       forks: 18

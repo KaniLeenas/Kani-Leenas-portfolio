@@ -70,7 +70,7 @@ const defaultTechTags: TechTag[] = [
   { name: "HTML", color: "from-orange-500 to-red-500" },
   { name: "Tailwind CSS", color: "from-cyan-400 to-blue-400" },
   { name: "JavaScript", color: "from-yellow-400 to-orange-400" },
-  { name: "React", color: "from-blue-400 to-cyan-400" },
+  { name: "React", color: "from-green-100 to-pink-800" },
 ];
 
 const Skills: React.FC<SkillsProps> = ({

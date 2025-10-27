@@ -19,7 +19,7 @@ type CertificateProps = {
 // Example data (safe defaults). NOTE: public assets must be referenced with a leading "/"
 const fallbackCertificates: CertificateItem[] = [
   { id: "c1", title: "DevOps and AI on AWS: Build Smarter, Faster", issuer: "AWS", date: "2025", image: "/lovable-uploads/image.png", verifyUrl: "https://coursera.org/verify/specialization/O83C93510LBX" },
-  { id: "c2", title: "Meta Android Developer", issuer: "Meta", date: "2024", image: "/Screenshot 2025-10-25 210219.png", verifyUrl: "https://coursera.org/verify/professional-cert/FGEBXE4TATX7" },
+  { id: "c2", title: "Meta Android Developer", issuer: "Meta", date: "2024", image: "/lovable-uploads/Screenshot 2025-10-25 210219.png", verifyUrl: "https://coursera.org/verify/professional-cert/FGEBXE4TATX7" },
   { id: "c3", title: "AWS Cloud Technical Essentials", issuer: "Amazon Web Services", date: "2025", image: "/lovable-uploads/Screenshot 2025-10-25 211240.png", verifyUrl: "https://coursera.org/verify/B26G7N0D5V1A" },
   { id: "c4", title: "DevOps Essentials and Version Control with Git", issuer: "Edureka", date: "2025", image: "/lovable-uploads/Screenshot 2025-10-25 2112402.png", verifyUrl: "https://coursera.org/verify/Q20461VZMY7O" },
   { id: "c5", title: "Introduction to Software Engineering", issuer: "IBM", date: "2024", image: "/lovable-uploads/Screenshot 2025-10-25 212258.png", verifyUrl: "https://coursera.org/verify/S20NXGUWP7LS" },
